@@ -22,11 +22,11 @@ I know Html, Css and the basics of JavaScript. I'm currently deepening my knowle
 ⚡️ I really hate JavaScript, what an horrible language 😭
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio_WIP-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio_WIP-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gautier.picon/)
 
-[![linkedin](https://img.shields.io/badge/linkedin_WIP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin_WIP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vu_zip)
 
