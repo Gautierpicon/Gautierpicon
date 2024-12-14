@@ -8,7 +8,7 @@ In code, I'm mainly learning the frontend in order to improve my web development
 ## 🛠 Skills
 I know Html, Css and the basics of JavaScript. I'm currently deepening my knowledge of the Astro and React frameworks. And I'd like to learn VueJs and GoLang in the future.
 
-## Other Things About Me
+## ⭐️ Other Things About Me
 👩‍💻 I'm currently working on my protfolio
 
 🧠 I'm currently learning React
