@@ -29,3 +29,5 @@ I know Html, Css and the basics of JavaScript. I'm currently deepening my knowle
 [![linkedin](https://img.shields.io/badge/linkedin_WIP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vu_zip)
+
+[![email](https://img.shields.io/badge/email-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:gautierpicon@proton.me)
