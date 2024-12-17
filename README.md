@@ -2,9 +2,10 @@
 # Hi, I'm Gautier! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## 🚀 About Me
-I'm a 16 year old high school student. I'm particularly interested in marketing, human psychology, how social networks work, open-source, personal data management by GAFAM, Linux, interface design and computer science.
+I'm a French🇫🇷 16 year old high school student. I'm particularly interested in marketing, human psychology, how social networks work, open-source, personal data management by GAFAM, Linux, interface design and computer science.
 
 In code, I'm mainly learning the frontend in order to improve my web development skills.
+
 ## 🛠 Skills
 I know Html, Css and the basics of JavaScript. I'm currently deepening my knowledge of the Astro and React frameworks. And I'd like to learn VueJs and GoLang in the future.
 
