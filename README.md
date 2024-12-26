@@ -12,23 +12,23 @@ I know Html, Css and the basics of JavaScript. I'm currently deepening my knowle
 ## ⭐️ Other Things About Me
 👩‍💻 I'm currently working on my protfolio
 
-🧠 I'm currently learning React
+🧠 I'm currently learning React and React Native through Expo 
 
-👯‍♀️ i'm looking for internships in France to further my learning
+👯‍♀️ I would like to do some work experience in France to improve my skills and learn to work in a team. 
 
-🤔 I'm looking for help to improve my projects (my portfolio for example). Don't hesitate to contact me if you find bugs or areas for improvement on my works.
+🤔 Don't hesitate to contact me if you find bugs or areas for improvement on my works ( in my portfolio for example). 
 
-📫 You can reach me with my email adress or my twitter account
+📫 You can reach me with my email adress or my twitter account ( link down below )
 
 ⚡️ I really hate JavaScript, what an horrible language 😭
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio_WIP-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/My_portfolio_WIP-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gautier.picon/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gautier.picon/)
 
-[![linkedin](https://img.shields.io/badge/linkedin_WIP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/Linkedin_WIP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vu_zip)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vu_zip)
 
-[![email](https://img.shields.io/badge/email-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:gautierpicon@proton.me)
+[![email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:gautierpicon@proton.me)
