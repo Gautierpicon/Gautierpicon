@@ -12,7 +12,7 @@ I know Html, Css and the basics of JavaScript. I'm currently deepening my knowle
 ## ⭐️ Other Things About Me
 👩‍💻 I'm currently working on my protfolio
 
-🧠 I'm currently learning React and React Native through Expo 
+🧠 I'm currently learning React and React Native through Expo and how to create Extensions for Chromium-based browsers. 
 
 👯‍♀️ I would like to do some work experience in France or London to improve my skills and learn to work in a team.
 
