@@ -13,7 +13,7 @@ In code, I'm mainly learning FrontEnd in order to improve my web development ski
 ## ⭐️ Other Things About Me
 👩‍💻 I'm currently working on my protfolio
 
-🧠 I'm currently learning React and React Native through Expo and how to create Extensions for Chromium-based browsers. 
+🧠 I'm currently learning React and React Native through Expo. 
 
 👯‍♀️ I would like to do some work experience in France or London to improve my skills and learn to work in a team.
 
