@@ -2,7 +2,7 @@
 # Hi, I'm Gautier! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## 🚀 About Me
-I am a 🇫🇷French high school student aged 16. I'm particularly interested in marketing, human psychology, how social networks work, open-source, personal data management by GAFAM, Linux, interface design and computer science.
+I am a 🇫🇷French high school student aged 17. I'm particularly interested in marketing, human psychology, how social networks work, open-source, personal data management by GAFAM, Linux, interface design and computer science.
 
 In code, I'm mainly learning FrontEnd in order to improve my web development skills.
 
